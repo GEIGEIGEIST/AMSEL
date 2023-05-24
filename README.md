@@ -18,4 +18,4 @@ AMSEL is a 38 key column-staggered keyboard with spla. It supports a per key RGB
 
 ## TBA
 
-The PCB- and case-files, firmware and build guide will follow.
+The PCB- and case-files, firmware and build guide will follow when I made sure everything is working.
