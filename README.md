@@ -6,13 +6,13 @@
 
 # AMSEL KEYBOARD
 
-AMSEL is a 38 key column-staggered keyboard with spla. It supports a per key RGB matrix, encoders, a RGB OLED display, haptic feedback, speakers. It runs on the Rasperry Pi RP2040.
+AMSEL is a 38 key column-staggered keyboard with spla. It supports a per key RGB matrix, underglow, encoders, a RGB OLED display, haptic feedback and two amplified speakers. It runs on the Rasperry Pi RP2040.
 
 ***
 
-## LAYOUTS
+## LAYOUT
 
-![AMSEL layouts](/docs/images/amsel-layout.svg)
+![AMSEL layout](/docs/images/amsel-layout.svg)
 
 ***
 
